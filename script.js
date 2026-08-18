@@ -127,7 +127,9 @@ const rooms = [
         name: "Tropical Bungalow",
         type: "Suite",
         images: [
-            "https://images.pexels.com/photos/30356436/pexels-photo-30356436.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/5805952/pexels-photo-5805952.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/10761017/pexels-photo-10761017.jpeg?auto=compress&cs=tinysrgb&w=800",
+            "https://images.pexels.com/photos/14025907/pexels-photo-14025907.jpeg?auto=compress&cs=tinysrgb&w=800"
 
         ],
         price: 349,

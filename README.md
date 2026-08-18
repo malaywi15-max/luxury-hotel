@@ -9,11 +9,11 @@ A modern, fully functional hotel booking website with **10 different room types*
 2. **Comfort Double** - $129/night (2 guests)
 3. **Family Room** - $179/night (4 guests)
 4. **Deluxe Suite** - $249/night (2 guests)
-5. **Ocean View Room** - $199/night (2 guests)
+5. **Ocean View Room** - $399/night (2 guests)
 6. **Executive Suite** - $299/night (2 guests)
 7. **Penthouse Deluxe** - $499/night (4 guests)
 8. **Romance Suite** - $279/night (2 guests)
-9. **Garden View Room** - $149/night (2 guests)
+9. **Garden View Room** - $429/night (5 guests)
 10. **Tropical Bungalow** - $349/night (3 guests)
 
 ### 🎯 Core Functionality:
